@@ -92,7 +92,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"fall",
-"speed": 9.0
+"speed": 6.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -162,6 +162,5 @@ shape = SubResource("CapsuleShape2D_u3f3p")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_ef06p")
-animation = &"fall"
-autoplay = "idle"
-frame_progress = 0.346807
+animation = &"run"
+frame_progress = 0.188123
