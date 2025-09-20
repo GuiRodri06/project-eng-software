@@ -152,7 +152,7 @@ animations = [{
 "speed": 14.0
 }]
 
-[node name="Player" type="CharacterBody2D"]
+[node name="Player" type="CharacterBody2D" groups=["Player"]]
 z_index = 1
 script = ExtResource("1_merdl")
 
@@ -164,4 +164,4 @@ shape = SubResource("CapsuleShape2D_u3f3p")
 sprite_frames = SubResource("SpriteFrames_ef06p")
 animation = &"fall"
 autoplay = "idle"
-frame_progress = 0.586762
+frame_progress = 0.346807

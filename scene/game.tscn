@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://d3vqaqcaqp243"]
+[gd_scene load_steps=4 format=3 uid="uid://d3vqaqcaqp243"]
 
 [ext_resource type="PackedScene" uid="uid://d368kk73p2wsl" path="res://entities/player.tscn" id="1_5kiuu"]
+[ext_resource type="PackedScene" uid="uid://ct0yedmbyod6r" path="res://entities/camera.tscn" id="2_dbls1"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_dbls1"]
 size = Vector2(631.5, 74)
@@ -15,3 +16,5 @@ position = Vector2(191, 212)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
 shape = SubResource("RectangleShape2D_dbls1")
+
+[node name="Camera" parent="." instance=ExtResource("2_dbls1")]
