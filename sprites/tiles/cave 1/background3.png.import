@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dpxyex74uikp8"
-path="res://.godot/imported/Layer_0006_4.png-f29d181f5f83a5e783ac5ec46788f62d.ctex"
+uid="uid://dmny073kmaph5"
+path="res://.godot/imported/background3.png-90b6798936cd58d3b378468422729d19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/templates/background/forest/Layer_0006_4.png"
-dest_files=["res://.godot/imported/Layer_0006_4.png-f29d181f5f83a5e783ac5ec46788f62d.ctex"]
+source_file="res://sprites/tiles/cave 1/background3.png"
+dest_files=["res://.godot/imported/background3.png-90b6798936cd58d3b378468422729d19.ctex"]
 
 [params]
 

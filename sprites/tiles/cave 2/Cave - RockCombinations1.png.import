@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://craa45rbfqu24"
-path="res://.godot/imported/Layer_0011_0.png-e7c65a99f1676b12a3f316b4adf38bf5.ctex"
+uid="uid://do6unyi27bf6q"
+path="res://.godot/imported/Cave - RockCombinations1.png-a17d3477bcf8144175b4a1c1dc99e6bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/templates/background/forest/Layer_0011_0.png"
-dest_files=["res://.godot/imported/Layer_0011_0.png-e7c65a99f1676b12a3f316b4adf38bf5.ctex"]
+source_file="res://sprites/tiles/cave 2/Cave - RockCombinations1.png"
+dest_files=["res://.godot/imported/Cave - RockCombinations1.png-a17d3477bcf8144175b4a1c1dc99e6bc.ctex"]
 
 [params]
 

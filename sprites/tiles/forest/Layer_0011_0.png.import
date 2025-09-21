@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c65gkq2kx7f5p"
-path="res://.godot/imported/Layer_0000_9.png-dbce06ce94ab78c20a8b3a3ae16de4a1.ctex"
+uid="uid://craa45rbfqu24"
+path="res://.godot/imported/Layer_0011_0.png-fc8c5d74716a7083ca083277820966a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/templates/background/forest/Layer_0000_9.png"
-dest_files=["res://.godot/imported/Layer_0000_9.png-dbce06ce94ab78c20a8b3a3ae16de4a1.ctex"]
+source_file="res://sprites/tiles/forest/Layer_0011_0.png"
+dest_files=["res://.godot/imported/Layer_0011_0.png-fc8c5d74716a7083ca083277820966a4.ctex"]
 
 [params]
 

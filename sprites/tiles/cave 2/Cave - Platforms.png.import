@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://chsoea50ja3ke"
-path="res://.godot/imported/Layer_0009_2.png-12867a02ce6c094023fd18c34636d733.ctex"
+uid="uid://b6js8d11xrntq"
+path="res://.godot/imported/Cave - Platforms.png-e53a0b13c1220ff2b87ae9ea0868087c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/templates/background/forest/Layer_0009_2.png"
-dest_files=["res://.godot/imported/Layer_0009_2.png-12867a02ce6c094023fd18c34636d733.ctex"]
+source_file="res://sprites/tiles/cave 2/Cave - Platforms.png"
+dest_files=["res://.godot/imported/Cave - Platforms.png-e53a0b13c1220ff2b87ae9ea0868087c.ctex"]
 
 [params]
 
